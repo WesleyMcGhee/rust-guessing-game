@@ -1,0 +1,11 @@
+C:\Users\Wesley McGhee\rustLearning\rust-basic\target\debug\deps\rand_core-4f76b8f109eaccf8.rmeta: C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\Wesley McGhee\rustLearning\rust-basic\target\debug\deps\librand_core-4f76b8f109eaccf8.rlib: C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\Wesley McGhee\rustLearning\rust-basic\target\debug\deps\rand_core-4f76b8f109eaccf8.d: C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs:
+C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs:
+C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs:
+C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs:
+C:\Users\Wesley\ McGhee\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs:
